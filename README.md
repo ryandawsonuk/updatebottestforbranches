@@ -3,6 +3,8 @@
 
 For testing https://github.com/jenkins-x/updatebot/pull/73
 
+Jar here was built from that PR by cloning that repo, doing `mvn install` and getting jar from updatebot/target dir.
+
 First clone this repo.
 
 Next set your credentials in the updatebot.sh script and uncomment the credentials exports.
